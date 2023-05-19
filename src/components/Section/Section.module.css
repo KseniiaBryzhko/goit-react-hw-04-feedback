@@ -1,0 +1,14 @@
+.section {
+  padding: 30px 60px 30px 60px;
+}
+.section:last-child {
+  padding-top: 0;
+}
+
+.title {
+  text-align: center;
+  color: #353535;
+  font-size: 40px;
+  font-family: 'Cormorant Garamond', serif;
+  margin-bottom: 20px;
+}

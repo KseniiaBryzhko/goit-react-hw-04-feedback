@@ -1,0 +1,12 @@
+.statList {
+  display: flex;
+  flex-direction: column;
+}
+
+.statItem {
+  margin: 0 auto;
+  color: #353535;
+  font-size: 20px;
+  font-family: 'Cormorant Garamond', serif;
+  margin-bottom: 10px;
+}
